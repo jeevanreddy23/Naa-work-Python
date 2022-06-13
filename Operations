@@ -1,0 +1,6 @@
+There ae various type of bitwisebooleon operators are
+True AND True = True
+True OR False = False   #####AND = addition where OR is multiply
+True AND False = True
+False AND False = False
+
